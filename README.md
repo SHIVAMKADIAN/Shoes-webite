@@ -1,2 +1,2 @@
-# Shoes-webite
+# Shoes-website
  Responsive website using HTML & CSS.
